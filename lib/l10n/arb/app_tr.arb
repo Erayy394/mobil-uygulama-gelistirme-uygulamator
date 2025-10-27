@@ -1,0 +1,21 @@
+{
+  "@@locale": "tr",
+  "appName": "Kendin Yap Mobil",
+  "@appName": {
+    "description": "Application name"
+  },
+  "welcome": "Hoş Geldiniz",
+  "@welcome": {
+    "description": "Welcome message"
+  },
+  "signIn": "Giriş Yap",
+  "signUp": "Kayıt Ol",
+  "email": "E-posta",
+  "password": "Şifre",
+  "name": "Ad Soyad",
+  "forgotPassword": "Şifremi Unuttum",
+  "noAccount": "Hesabınız yok mu?",
+  "signInError": "Giriş başarısız",
+  "signUpError": "Kayıt başarısız"
+}
+

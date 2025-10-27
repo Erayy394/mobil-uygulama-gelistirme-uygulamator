@@ -1,0 +1,21 @@
+{
+  "@@locale": "en",
+  "appName": "Build Your Own Mobile",
+  "@appName": {
+    "description": "Application name"
+  },
+  "welcome": "Welcome",
+  "@welcome": {
+    "description": "Welcome message"
+  },
+  "signIn": "Sign In",
+  "signUp": "Sign Up",
+  "email": "Email",
+  "password": "Password",
+  "name": "Full Name",
+  "forgotPassword": "Forgot Password",
+  "noAccount": "Don't have an account?",
+  "signInError": "Sign in failed",
+  "signUpError": "Sign up failed"
+}
+
